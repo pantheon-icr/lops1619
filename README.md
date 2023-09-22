@@ -1,4 +1,4 @@
-# ICR PoC
+# ICR Proof of Concept
 
 This is Pantheon's recommended starting point for forking new [Drupal](https://www.drupal.org/) upstreams
 that work with the Platform's Integrated Composer build process. It is also the
